@@ -7,6 +7,8 @@ public class Test2 {
 	
 		System.out.println("test1브랜치 시작!!");
 		System.out.println("test1브랜치 끝!!");
+		
+		System.out.println("master작성함!!");
 			
 	}
 }
